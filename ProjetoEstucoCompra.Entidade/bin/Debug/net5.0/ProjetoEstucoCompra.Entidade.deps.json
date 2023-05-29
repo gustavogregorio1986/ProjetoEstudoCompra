@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoEstucoCompra.Entidade/1.0.0": {
+        "runtime": {
+          "ProjetoEstucoCompra.Entidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoEstucoCompra.Entidade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

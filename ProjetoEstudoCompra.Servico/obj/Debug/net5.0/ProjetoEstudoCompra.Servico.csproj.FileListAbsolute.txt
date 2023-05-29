@@ -1,0 +1,17 @@
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstudoCompra.Servico.deps.json
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstudoCompra.Servico.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstudoCompra.Servico.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstucoCompra.Entidade.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstudoCompra.Data.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstucoCompra.Entidade.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\bin\Debug\net5.0\ProjetoEstudoCompra.Data.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.csproj.AssemblyReference.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.AssemblyInfoInputs.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.AssemblyInfo.cs
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.csproj.CopyComplete
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\refint\ProjetoEstudoCompra.Servico.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ProjetoEstudoCompra.Servico.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra.Servico\obj\Debug\net5.0\ref\ProjetoEstudoCompra.Servico.dll

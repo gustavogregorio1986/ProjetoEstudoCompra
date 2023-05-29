@@ -1,0 +1,12 @@
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\bin\Debug\net5.0\ProjetoEstucoCompra.Entidade.deps.json
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\bin\Debug\net5.0\ProjetoEstucoCompra.Entidade.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\bin\Debug\net5.0\ProjetoEstucoCompra.Entidade.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.csproj.AssemblyReference.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.AssemblyInfoInputs.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.AssemblyInfo.cs
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.csproj.CoreCompileInputs.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\refint\ProjetoEstucoCompra.Entidade.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ProjetoEstucoCompra.Entidade.pdb
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstucoCompra.Entidade\obj\Debug\net5.0\ref\ProjetoEstucoCompra.Entidade.dll
