@@ -74,3 +74,4 @@ C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.pdb
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.genruntimeconfig.cache
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ref\ProjetoEstudoCompra.dll
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Logar\Entrar.cshtml.g.cs
