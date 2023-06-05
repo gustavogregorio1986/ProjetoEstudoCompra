@@ -21,17 +21,6 @@ namespace ProjetoEstudoCompra.Data.Persistence
 
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Login>().ToTable("Login");
-            modelBuilder.Entity<Login>().HasKey(l => l.LoginId).IsClustered();
-            modelBuilder.Entity<Login>().Property(l => l.Usuario).IsRequired();
-            modelBuilder.Entity<Login>().Property(l => l.Senha).IsRequired();
-            modelBuilder.Entity<Login>().Property(l => l.Perfil).IsRequired();
-            modelBuilder.Entity<Login>().Property(l => l.Email).IsRequired();
-
-        }
-
         public DbSet<Login> logins { get; set; }
     }
 }

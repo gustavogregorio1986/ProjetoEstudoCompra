@@ -1,10 +1,55 @@
-﻿@*
+﻿@model ProjetoEstudoCompra.Models.LoginView
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
 
-@using(Html.BeginForm())
-{
-    <h3>Logar o Usuario</h3>
-}
+<div class="modal-dialog">
+    <div class="modal-content">
+    @using (Html.BeginForm())
+    {
+        <div class="modal-header">
+            <h4 class="modal-title">Cadastrar Usuario</h4>
+        </div>
+
+         <div class="modal-body">
+            <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Usuario, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Usuario, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Usuario, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                
+
+              </div>
+            </div>
+            <div class="modal-footer">
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Logar no sistema" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </div>
+                }
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+
+      <div>
+    }
+</div>
