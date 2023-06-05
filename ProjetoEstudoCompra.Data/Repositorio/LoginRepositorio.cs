@@ -1,4 +1,5 @@
-﻿using ProjetoEstucoCompra.Entidade.Entidade;
+﻿using Microsoft.EntityFrameworkCore;
+using ProjetoEstucoCompra.Entidade.Entidade;
 using ProjetoEstudoCompra.Data.Persistence;
 using ProjetoEstudoCompra.Data.Repositorio.Interface;
 using System;
@@ -15,12 +16,13 @@ namespace ProjetoEstudoCompra.Data.Repositorio
 
         public LoginRepositorio()
         {
-            _db = new ProjetoEstudoCompraContexto();
+            var options = new DbContextOptionsBuilder();
+            _db = new ProjetoEstudoCompraContexto(options);
         }
 
         public void Cadastrar(Login login)
         {
-            _db.logins.Add(login);
+            _db.Add(login);
         }
     }
 }
