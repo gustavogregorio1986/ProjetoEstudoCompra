@@ -10,15 +10,17 @@ namespace ProjetoEstudoCompra.Data.Persistence
 {
     public class ProjetoEstudoCompraContexto : DbContext
     {
-        public ProjetoEstudoCompraContexto()
-        {
-
-        }
+        private DbContextOptionsBuilder options;
 
         public ProjetoEstudoCompraContexto(DbContextOptions option)
             : base(option)
         {
 
+        }
+
+        public ProjetoEstudoCompraContexto(DbContextOptionsBuilder options)
+        {
+            this.options = options;
         }
 
         public DbSet<Login> logins { get; set; }

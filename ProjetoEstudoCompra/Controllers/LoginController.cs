@@ -28,7 +28,7 @@ namespace ProjetoEstudoCompra.Controllers
             loginView.Email = login.Email;
             loginView.Perfil = login.Perfil;
             loginServico.Cadastrar(login);
-            return View(login);
+            return RedirectToAction("Cadastro", "Login");
         }
     }
 }
