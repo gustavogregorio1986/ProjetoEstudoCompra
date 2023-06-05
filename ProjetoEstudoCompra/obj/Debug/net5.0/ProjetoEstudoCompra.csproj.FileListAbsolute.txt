@@ -59,6 +59,7 @@ C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.TagHelpers.input.cache
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.TagHelpers.output.cache
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.RazorCoreGenerate.cache
+C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Logar\Entrar.cshtml.g.cs
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Login\Cadastrar.cshtml.g.cs
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -74,4 +75,3 @@ C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.pdb
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ProjetoEstudoCompra.genruntimeconfig.cache
 C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\ref\ProjetoEstudoCompra.dll
-C:\ProjetoEstudoCompra\ProjetoEstudoCompra\ProjetoEstudoCompra\obj\Debug\net5.0\Razor\Views\Logar\Entrar.cshtml.g.cs
